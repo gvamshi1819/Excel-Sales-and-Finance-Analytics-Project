@@ -30,10 +30,10 @@
 
 ### Project Objectives
 
-1. **Create Profit and Loss (P&L) Reports by Fiscal Year**:
+1. **Create Profit and Loss (P&L) Reports by Fiscal Year**: [P&L by Fiscal Years]
    - Generate detailed P&L reports segmented by fiscal years.
 
-2. **Create Profit and Loss (P&L) Reports by Fiscal Months**:
+2. **Create Profit and Loss (P&L) Reports by Fiscal Months**: [P&L by Fiscal Months]
    - Develop P&L reports segmented by fiscal monthss.
 
 ### Purpose of Finance Analytics
