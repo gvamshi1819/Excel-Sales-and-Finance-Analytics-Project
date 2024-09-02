@@ -4,10 +4,10 @@
 
 ### Project Objectives
 
-1. **Create a Customer Performance Report**:
+1. **Create a Customer Performance Report**: [Customer Performance Report](https://github.com/gvamshi1819/Excel-Sales-and-Finance-Analytics-Project/blob/main/Customer_Net_Sales_Performance_Report.pdf)
    - Develop a comprehensive report evaluating customer performance metrics.
 
-2. **Conduct a Comprehensive Comparison**:
+2. **Conduct a Comprehensive Comparison**: [Market Performance against Target Report]
    - Analyze market performance against sales targets to gauge effectiveness and identify areas for improvement.
 
 ### Purpose of Sales Analytics
