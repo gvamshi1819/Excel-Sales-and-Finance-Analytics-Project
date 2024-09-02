@@ -34,7 +34,7 @@
    - Generate detailed P&L reports segmented by fiscal years.
 
 2. **Create Profit and Loss (P&L) Reports by Fiscal Months**: [P&L by Fiscal Months Report](https://github.com/gvamshi1819/Excel-Sales-and-Finance-Analytics-Project/blob/main/P%26L_by_Fiscal_Months.pdf)
-   - Develop P&L reports segmented by fiscal monthss.
+   - Develop P&L reports segmented by fiscal months.
 
 ### Purpose of Finance Analytics
 
